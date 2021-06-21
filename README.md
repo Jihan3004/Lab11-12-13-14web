@@ -53,3 +53,7 @@
 ![Screenshot (401)](https://user-images.githubusercontent.com/81568032/121798013-0480d700-cc4e-11eb-9628-4dccad907c78.png)
 
 # TUGAS 12 LANJUTAN TUGAS 11
+
+1. Membuat database dan membuta table
+
+![image](https://user-images.githubusercontent.com/81526294/122775935-d6963500-d2d4-11eb-9431-a624b6562a20.png)
