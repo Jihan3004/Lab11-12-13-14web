@@ -57,3 +57,69 @@
 1. Membuat database dan membuta table
 
 ![image](https://user-images.githubusercontent.com/81526294/122775935-d6963500-d2d4-11eb-9431-a624b6562a20.png)
+
+2. membuat konfigurasi untuk menghubungkan dengan database server
+
+![image](https://user-images.githubusercontent.com/81526294/122776313-2f65cd80-d2d5-11eb-8a0e-ab396dcfd748.png)
+
+3. Membuat Model untuk memproses data Artikel. Buat file baru pada direktori app/Models dengan nama ArtikelModel.php
+
+![image](https://user-images.githubusercontent.com/81526294/122776463-52907d00-d2d5-11eb-82a2-c06cdaec7ca7.png)
+
+4. Buat Controller baru dengan nama Artikel.php pada direktori app/Controllers
+
+![image](https://user-images.githubusercontent.com/81526294/122776552-676d1080-d2d5-11eb-99dd-1fa9797f9d15.png)
+
+5. Membuat View index.php
+
+![image](https://user-images.githubusercontent.com/81526294/122778366-2413a180-d2d7-11eb-97d0-e41e934be0da.png)
+
+![122744890-a76ecc00-d2b2-11eb-9cb8-eda330fc687a](https://user-images.githubusercontent.com/81526294/122778746-7228a500-d2d7-11eb-8a13-15749bc5830d.png)
+
+6. Menambahkan data ke dalam tabel
+
+![122745159-e7ce4a00-d2b2-11eb-8822-e3edd41273ee](https://user-images.githubusercontent.com/81526294/122779178-d64b6900-d2d7-11eb-8a62-33fb181b8523.png)
+
+![image](https://user-images.githubusercontent.com/81526294/122779521-2296a900-d2d8-11eb-8e37-492bd48f332a.png)
+
+7. Membuat Tampilan Detail Artikel
+
+![image](https://user-images.githubusercontent.com/81526294/122779703-4fe35700-d2d8-11eb-9038-cec1275f30f6.png)
+
+8. Membuat View Detail
+
+![image](https://user-images.githubusercontent.com/81526294/122779853-7bfed800-d2d8-11eb-8179-91f959395c27.png)
+
+9. Membuat Routing artikel detail
+
+![image](https://user-images.githubusercontent.com/81526294/122779886-83be7c80-d2d8-11eb-9542-c4a4bc8522f9.png)
+
+![image](https://user-images.githubusercontent.com/81526294/122780056-ac467680-d2d8-11eb-83c9-5b828b7d7c4b.png)
+
+10. Routing untuk menu admin
+
+![image](https://user-images.githubusercontent.com/81526294/122780357-fa5b7a00-d2d8-11eb-8925-85731335383c.png)
+
+11. Controller Add dan form Add
+
+![image](https://user-images.githubusercontent.com/81526294/122780624-355dad80-d2d9-11eb-811e-d0ff1588e837.png)
+
+12. Controller edit dan form edit
+
+![image](https://user-images.githubusercontent.com/81526294/122781129-b61ca980-d2d9-11eb-9fc3-eb86f80d8bb9.png)
+
+13. Controller Delete
+
+![image](https://user-images.githubusercontent.com/81526294/122781271-d64c6880-d2d9-11eb-851e-0e758b848b70.png)
+
+
+
+
+
+
+
+
+
+
+
+
