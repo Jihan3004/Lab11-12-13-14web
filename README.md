@@ -112,8 +112,19 @@
 
 ![image](https://user-images.githubusercontent.com/81526294/122781271-d64c6880-d2d9-11eb-851e-0e758b848b70.png)
 
+TUGAS PERTEMUAN 13
 
+1. Membuat Tabel
 
+![cmd](https://user-images.githubusercontent.com/81526294/123802009-023c9f00-d915-11eb-819f-a6e876b24b07.png)
+
+2. Login
+
+![login](https://user-images.githubusercontent.com/81526294/123803103-306eae80-d916-11eb-8639-f7c0348c2518.png)
+
+![widget](https://user-images.githubusercontent.com/81526294/123805548-5dbc5c00-d918-11eb-9d2a-43ea1a14a519.png)
+
+![out](https://user-images.githubusercontent.com/81526294/123806085-d02d3c00-d918-11eb-8eff-b82fef06a2b7.png)
 
 
 
