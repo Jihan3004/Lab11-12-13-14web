@@ -126,11 +126,31 @@ TUGAS PERTEMUAN 13
 
 ![out](https://user-images.githubusercontent.com/81526294/123806085-d02d3c00-d918-11eb-8eff-b82fef06a2b7.png)
 
+TUGAS PERTEMUAN 14 LANJUTAN TUGAS 11.
 
+1. Saya membuat pagination, yaitu dengan membuka Kembali Controller Artikel, kemudian modifikasi kode pada method admin_index seperti berikut.
 
+![image](https://user-images.githubusercontent.com/81526294/124357687-10f1c180-dc47-11eb-8e35-9ec7534ec314.png)
 
+![image](https://user-images.githubusercontent.com/81526294/124357725-3e3e6f80-dc47-11eb-97f0-b384420d8132.png)
 
+![admin portal (2)](https://user-images.githubusercontent.com/81526294/124357996-6b3f5200-dc48-11eb-9b5a-1720b789f602.png)
 
+2. Membuat Pencarian Pencarian data digunakan untuk memfilter data. Saya membuat pencarian data, yaitu dengan membuka kembali Controller Artikel, pada method admin_index ubah kodenya seperti berikut
 
+![image](https://user-images.githubusercontent.com/81526294/124358036-a3df2b80-dc48-11eb-9050-5c5cdaf15e0a.png)
 
+![image](https://user-images.githubusercontent.com/81526294/124358048-afcaed80-dc48-11eb-991d-e5e9b65a2810.png)
+
+![1 (2)](https://user-images.githubusercontent.com/81526294/124358220-8494ce00-dc49-11eb-8235-509523163813.png)
+
+3. Menambahkan fungsi unggah gambar pada tambah artikel.Dengan cara membuka kembali Controller Artikel, sesuaikan kode pada method add seperti berikut
+
+![image](https://user-images.githubusercontent.com/81526294/124358253-af7f2200-dc49-11eb-9138-5722476fbee6.png)
+
+![image](https://user-images.githubusercontent.com/81526294/124358262-ba39b700-dc49-11eb-8021-544167f7593f.png)
+
+![22 (2)](https://user-images.githubusercontent.com/81526294/124358460-9aef5980-dc4a-11eb-9a1a-02a3dd47bf3c.png)
+
+![image](https://user-images.githubusercontent.com/81526294/124358957-e60a6c00-dc4c-11eb-9092-afd15d596b2b.png)
 
